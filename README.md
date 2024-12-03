@@ -1,1 +1,1 @@
-# bob-the-web-builder
+A web-dev environment to prompt, run, edit and demo full-stack web apps. Users can create beautiful, production ready multipage apps with backends and DBs, in their desired tech stacks with just a few prompts.
